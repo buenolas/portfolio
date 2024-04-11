@@ -11,7 +11,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(medias/the-batman.jpeg); /* Define a imagem de fundo */
+    background-image: url(medias/the-batman.jpg); /* Define a imagem de fundo */
     background-size: cover; /* Garante que a imagem de fundo cubra todo o elemento */
     filter: blur(10px); /* Aplica um desfoque de 10 pixels à imagem de fundo */
     z-index: -1; /* Coloca o elemento abaixo do conteúdo */
