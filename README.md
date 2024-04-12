@@ -33,7 +33,7 @@ Para visualizar, acesse o domínio: https://buenolas.github.io/portfolio/
 
 ## Contato
 
-Se você quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem no LinkedIn ou via WhatsApp.
+Se você quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem no LinkedIn.
 
 - LinkedIn: [buenolas](https://www.linkedin.com/in/buenolas/)
 ---
