@@ -36,8 +36,6 @@ Para visualizar, acesse o domínio: https://buenolas.github.io/portfolio/
 Se você quiser entrar em contato, sinta-se à vontade para me enviar uma mensagem no LinkedIn ou via WhatsApp.
 
 - LinkedIn: [buenolas](https://www.linkedin.com/in/buenolas/)
-- WhatsApp: [+55 62 99696-0340](https://api.whatsapp.com/send/?phone=5562996960340&text&type=phone_number&app_absent=0)
-
 ---
 
 Lucas Bueno &copy; 2024
