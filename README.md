@@ -27,10 +27,9 @@ Nesta seção, falo um pouco sobre minhas habilidades e experiência em diferent
 
 Uma breve descrição sobre mim, minha formação acadêmica e minha paixão pela computação.
 
-## Instalação e Uso
+## Visualização
 
-1. Clone este repositório.
-2. Abra o arquivo `index.html` em seu navegador para visualizar o portfólio.
+Para visualizar, acesse o domínio: https://buenolas.github.io/portfolio/
 
 ## Contato
 
