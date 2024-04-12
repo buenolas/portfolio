@@ -29,6 +29,7 @@ Uma breve descrição sobre mim, minha formação acadêmica e minha paixão pel
 
 ## Visualização
 
+Na versão atual ainda não é responsivo com telefone celulares, apenas em computadores.
 Para visualizar, acesse o domínio: https://buenolas.github.io/portfolio/
 
 ## Contato
