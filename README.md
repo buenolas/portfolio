@@ -17,11 +17,11 @@ Nesta seção, você encontrará uma breve descrição do meu portfólio e algun
 ### Projetos
 
 - **Gerenciamento de Usuários**: Um projeto JavaScript desenvolvido durante um curso na Udemy, que permite cadastrar, editar e excluir usuários.
-- **Calculadora Windows**: Minha primeira aplicação JavaScript, uma calculadora inspirada na calculadora do Windows.
+- **Gerenciamento de Tarefas**: Minha última aplicação JavaScript, feita para uso pessoal e que acabou sendo disponibilizada.
 
 ### Habilidades
 
-Nesta seção, falo um pouco sobre minhas habilidades e experiência em diferentes tecnologias, como JavaScript, Node.js, HTML, Java e C.
+Nesta seção, falo um pouco sobre minhas habilidades e experiência em diferentes tecnologias, como JavaScript, HTML e CSS, Java e C.
 
 ### Sobre Mim
 
@@ -30,7 +30,7 @@ Uma breve descrição sobre mim, minha formação acadêmica e minha paixão pel
 ## Visualização
 
 Na versão atual ainda não é responsivo com telefone celulares, apenas em computadores.
-Para visualizar, acesse o domínio: https://buenolas.github.io/portfolio/
+Para visualizar, [clique aqui](https://buenolas.github.io/portfolio/)
 
 ## Contato
 
