@@ -69,7 +69,7 @@ header.portfolio h2 {
     font-size: 40px;
 }
 
-section.gerenciamento {
+section.gerenciamento-usuarios {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -78,15 +78,15 @@ section.gerenciamento {
     padding-bottom: 30px;
 }
 
-section.gerenciamento video{
+section.gerenciamento-usuarios video{
     border: 4px solid #333;
 }
 
-section.gerenciamento header{
+section.gerenciamento-usuarios header{
     padding-right: 10px;
 }
 
-section.calculadora {
+section.gerenciamento-tarefas {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -96,11 +96,11 @@ section.calculadora {
     border-bottom: 2px solid #fff;
 }
 
-section.calculadora video{
+section.gerenciamento-tarefas video{
     border: 4px solid #333;
 }
 
-section.calculadora header{
+section.gerenciamento-tarefas header{
     padding-left: 10px;
     
 }
