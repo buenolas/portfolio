@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#0B1020"/>
+  <rect x="8" y="8" width="48" height="48" rx="6" fill="#12182B" stroke="#4DA2FF" stroke-opacity="0.55"/>
+  <text x="32" y="38" fill="#7BE0FF" font-family="ui-monospace, SFMono-Regular, monospace" font-size="18" font-weight="700" text-anchor="middle">LB</text>
+</svg>
